@@ -164,6 +164,10 @@ header h2 {
     opacity: 0.8;
 }
 
+.song:hover {
+    cursor: pointer;
+}
+
 .song.active .option,
 .song.active .author,
 .song.active .title {
